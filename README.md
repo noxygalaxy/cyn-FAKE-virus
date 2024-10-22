@@ -11,8 +11,8 @@ I made this thing just for my tiktok video (i was making it for 30 minutes xd)
 1. [Download Compiled code](https://github.com/noxygalaxy/cyn-fake-virus/releases/download/v1.0.0/cyn-fake-virus.exe) <br>
 
 If you are on Windows 11: <br>
-2. Open cmd.exe (type it in search or in Win+R menu)
-3. Follow screenshots:
+2. Open cmd.exe (type it in search or in Win+R menu) <br>
+3. Follow screenshots: <br>
 <img src="./assets/step1.png" alt="step1">
 <img src="./assets/step2.png" alt="step2">
 <img src="./assets/step3.png" alt="step3">
