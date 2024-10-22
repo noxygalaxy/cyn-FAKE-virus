@@ -28,14 +28,7 @@ I made this thing just for my tiktok video (i was making it for 30 minutes xd)
 ## Installation
 1. Install [Python 3.X](https://www.python.org/) if you haven't already.
 2. Install source code and run `install.bat` ( it's gonna download required libraries! )
-3. Open cmd.exe (type it in search or in Win+R menu) <br>
-4. Follow screenshots: <br>
-<img src="./assets/step1.png" alt="step1"> <br>
-<img src="./assets/step2.png" alt="step2"> <br>
-<img src="./assets/step3.png" alt="step3"> <br>
-<img src="./assets/step4.png" alt="step4"> <br>
-<img src="./assets/step5.png" alt="step5"> <br>
-5. After console closed, run `start.bat` ( it's gonna start program!) <br>
+3. After console closed, run `start.bat` ( it's gonna start program!) <br>
    it should work! if it doesnt send issue into [Issues](https://github.com/noxygalaxy/cyn-FAKE-virus/issues) <br>
 (After closing it gonna still have CMDs opened, thats completely fine!)
 
